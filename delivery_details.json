@@ -1,0 +1,42 @@
+[
+    {
+        "package_id": "P1",
+        "agent_id": "A1",
+        "warehouse_id": "W1",
+        "pickup_distance": 7.07,
+        "delivery_distance": 50.0,
+        "total_trip_distance": 57.07
+    },
+    {
+        "package_id": "P4",
+        "agent_id": "A1",
+        "warehouse_id": "W1",
+        "pickup_distance": 7.07,
+        "delivery_distance": 14.14,
+        "total_trip_distance": 21.21
+    },
+    {
+        "package_id": "P2",
+        "agent_id": "A2",
+        "warehouse_id": "W2",
+        "pickup_distance": 18.03,
+        "delivery_distance": 25.0,
+        "total_trip_distance": 43.03
+    },
+    {
+        "package_id": "P5",
+        "agent_id": "A2",
+        "warehouse_id": "W2",
+        "pickup_distance": 18.03,
+        "delivery_distance": 11.18,
+        "total_trip_distance": 29.21
+    },
+    {
+        "package_id": "P3",
+        "agent_id": "A3",
+        "warehouse_id": "W3",
+        "pickup_distance": 7.07,
+        "delivery_distance": 7.07,
+        "total_trip_distance": 14.14
+    }
+]
