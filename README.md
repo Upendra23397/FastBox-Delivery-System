@@ -163,9 +163,3 @@ You can then check the generated JSON, CSV and text files for the results.
 I tried to keep the code straightforward rather than adding unnecessary frameworks or libraries. The main focus of the project is the delivery assignment logic, distance calculation, simulation and report generation.
 
 The test cases are also included in the repository so the implementation can be checked with the provided scenarios.
-
-## Author
-
-Upendra Chauhan
-
-Python / AI-ML Developer
