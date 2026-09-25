@@ -10,7 +10,7 @@ I kept the implementation fairly simple so that the logic is easy to understand 
 
 The program mainly handles these things:
 
-* Loads delivery data from JSON files
+* Loads delivery data from JSON files.
 * Assigns packages to available delivery agents
 * Calculates the distance between locations
 * Simulates the delivery process
@@ -148,7 +148,7 @@ For example, you can change:
 * Package destinations
 * Warehouse locations
 * Number of delivery agents
-* Agent locations
+* Agent locations 
 
 After changing the data, run:
 
